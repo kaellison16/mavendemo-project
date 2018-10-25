@@ -10,6 +10,7 @@
 		<groupId>com.learnmaven</groupId>
 		<artifactId>mavendemo-parent</artifactId>
 		<version>1.0</version><!-- some comment -->
+		<relativePath>../mavendemo-parent/pom.xml</relativePath>
 	</parent>
 
 	<name>mavendemo-webapp Maven Webapp</name>
